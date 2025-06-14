@@ -4,3 +4,8 @@ This command sets up a new Swift package with a basic directory structure. Sourc
 
 Build and Run Your Swift Package:
 swift run
+
+swift repl
+:q
+
+
